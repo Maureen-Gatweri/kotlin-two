@@ -1,8 +1,9 @@
 fun main(){
 println(isPalindrome( ("madam, wow, kayak")))
+    sphere(volume = 10*5*8)
 
 val records = arrayOf(4,5,7)
-   println(nums.sum)
+
 
 
     call("Berning bakes down bagels and buns")
@@ -11,13 +12,13 @@ val records = arrayOf(4,5,7)
 
 }
 fun call(name:String){
-    records(nums = arrayOf(2,4,6,)))
-    println(nums.sum)
+
+    println(name.removeSuffix("b"))
 
 
-   println(name)
-    println(name.indexOf("b"))
-    println(name.toCharArray(name))
+
+  println(name.indexOf("b"))
+   println(name.toCharArray(name))
 
 }
 
@@ -29,19 +30,19 @@ fun records(nums:<array>Int):<arrayOf> {
 }
 fun isPalindrome(word:String):Boolean{
 
-    if {
-     (word = "madam, wow, kayak")
-  return true
-  else
-  return false
-  }
-
-    }
+  if {
+  (word = "madam, wow, kayak")
+return true
+else
+return false
+}
 
 }
-   fun sphere(volume:Int){
-       val pi  = 3.14159
-    println( volume)
-   }
+
+}
+ fun sphere(volume:Int){
+   val pi  = 3.14159
+println( volume)
+}
 
 
