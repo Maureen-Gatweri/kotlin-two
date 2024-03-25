@@ -1,8 +1,8 @@
 fun main(){
-println(isPalindrome( ("madam, wow, kayak")))
-    sphere(volume = 10*5*8)
+//println(isPalindrome( ("madam, wow, kayak")))
+  //  sphere(volume = 10*5*8)
 
-val records = arrayOf(4,5,7)
+//val records = arrayOf(4,5,7)
 
 
 
@@ -11,38 +11,40 @@ val records = arrayOf(4,5,7)
 
 
 }
-fun call(name:String){
 
-    println(name.removeSuffix("b"))
+fun call(name:String) {
 
-
-
-  println(name.indexOf("b"))
-   println(name.toCharArray(name))
-
+    println(name.replace("b", ""))
 }
 
-fun records(nums:<array>Int):<arrayOf> {
-  return (nums.contentToString)
+
+
+  //println(name.indexOf("b"))
+  // println(name.toCharArray(name))
+
+//}
+
+//fun records(nums:<array>Int):<arrayOf> {
+//  return (nums.contentToString)
 
 
 
-}
-fun isPalindrome(word:String):Boolean{
+//}
+//fun isPalindrome(word:String):Boolean{
 
-  if {
-  (word = "madam, wow, kayak")
-return true
-else
-return false
-}
+  //if {
+  //(word = "madam, wow, kayak")
+//return true
+//else
+//return false
+//}
 
-}
+//}
 
-}
- fun sphere(volume:Int){
-   val pi  = 3.14159
-println( volume)
-}
+//}
+        //fun sphere(volume:Int){
+   //val pi  = 3.14159
+//println( volume)
+//}
 
 
